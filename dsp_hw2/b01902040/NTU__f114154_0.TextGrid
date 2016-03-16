@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.2205 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 3.2205 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.055910325211711055 
+            text = "h_a" 
+        intervals [2]:
+            xmin = 0.055910325211711055 
+            xmax = 0.19352924123299073 
+            text = "a_i" 
+        intervals [3]:
+            xmin = 0.19352924123299073 
+            xmax = 0.2519701507762738 
+            text = "sic_i" 
+        intervals [4]:
+            xmin = 0.2519701507762738 
+            xmax = 0.4367188325582657 
+            text = "iou" 
+        intervals [5]:
+            xmin = 0.4367188325582657 
+            xmax = 0.5177820296666907 
+            text = "r_e" 
+        intervals [6]:
+            xmin = 0.5177820296666907 
+            xmax = 0.6591713269488274 
+            text = "en" 
+        intervals [7]:
+            xmin = 0.6591713269488274 
+            xmax = 0.8420348181003908 
+            text = "ji_i" 
+        intervals [8]:
+            xmin = 0.8420348181003908 
+            xmax = 0.9739981622303849 
+            text = "i" 
+        intervals [9]:
+            xmin = 0.9739981622303849 
+            xmax = 1.047520596817096 
+            text = "b_e" 
+        intervals [10]:
+            xmin = 1.047520596817096 
+            xmax = 1.2416952317512304 
+            text = "en" 
+        intervals [11]:
+            xmin = 1.2416952317512304 
+            xmax = 1.305791713185799 
+            text = "d_u" 
+        intervals [12]:
+            xmin = 1.305791713185799 
+            xmax = 1.5150478731633612 
+            text = "ueng" 
+        intervals [13]:
+            xmin = 1.5150478731633612 
+            xmax = 1.5866851171196439 
+            text = "tz_u" 
+        intervals [14]:
+            xmin = 1.5866851171196439 
+            xmax = 1.7714337989016358 
+            text = "uo" 
+        intervals [15]:
+            xmin = 1.7714337989016358 
+            xmax = 1.8524969960100606 
+            text = "b_u" 
+        intervals [16]:
+            xmin = 1.8524969960100606 
+            xmax = 1.9882307214009118 
+            text = "u" 
+        intervals [17]:
+            xmin = 1.9882307214009118 
+            xmax = 2.0655235372484797 
+            text = "g_o" 
+        intervals [18]:
+            xmin = 2.0655235372484797 
+            xmax = 2.2917464128998986 
+            text = "ou" 
+        intervals [19]:
+            xmin = 2.2917464128998986 
+            xmax = 2.378465181899609 
+            text = "tz_a" 
+        intervals [20]:
+            xmin = 2.378465181899609 
+            xmax = 2.566984244942458 
+            text = "a" 
+        intervals [21]:
+            xmin = 2.566984244942458 
+            xmax = 2.8309109332024462 
+            text = "sh_empt" 
+        intervals [22]:
+            xmin = 2.8309109332024462 
+            xmax = 3.2205 
+            text = "empt1" 

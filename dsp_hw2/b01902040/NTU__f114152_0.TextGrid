@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.283 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.283 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.048255752072641156 
+            text = "sic_i" 
+        intervals [2]:
+            xmin = 0.048255752072641156 
+            xmax = 0.19621362021318597 
+            text = "ing" 
+        intervals [3]:
+            xmin = 0.19621362021318597 
+            xmax = 0.26471263324121597 
+            text = "r_u" 
+        intervals [4]:
+            xmin = 0.26471263324121597 
+            xmax = 0.44555002763521523 
+            text = "u" 
+        intervals [5]:
+            xmin = 0.44555002763521523 
+            xmax = 0.6904635318652287 
+            text = "ts_empt" 
+        intervals [6]:
+            xmin = 0.6904635318652287 
+            xmax = 0.7606454875641533 
+            text = "empt2" 
+        intervals [7]:
+            xmin = 0.7606454875641533 
+            xmax = 0.9168232372680617 
+            text = "m_a" 
+        intervals [8]:
+            xmin = 0.9168232372680617 
+            xmax = 1.097660631662061 
+            text = "au" 
+        intervals [9]:
+            xmin = 1.097660631662061 
+            xmax = 1.2319186971969998 
+            text = "shi_i" 
+        intervals [10]:
+            xmin = 1.2319186971969998 
+            xmax = 1.4264558941966048 
+            text = "ian" 
+        intervals [11]:
+            xmin = 1.4264558941966048 
+            xmax = 1.5360543150414527 
+            text = "f_a" 
+        intervals [12]:
+            xmin = 1.5360543150414527 
+            xmax = 1.7114117883932096 
+            text = "an" 
+        intervals [13]:
+            xmin = 1.7114117883932096 
+            xmax = 1.8018304855902092 
+            text = "n_a" 
+        intervals [14]:
+            xmin = 1.8018304855902092 
+            xmax = 2.283 
+            text = "an" 
