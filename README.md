@@ -1,3 +1,3 @@
 # README #
 
-This repository contains my homework & project of Digital Speech Processing done at NTU during semester 103-2.
+This repository contains all of my materials of homework and projects finished during the 2015 Spring Digital Speech Processing (DSP) course at NTU.
